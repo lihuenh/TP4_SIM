@@ -11,7 +11,7 @@ using System.Globalization;
 using System.Diagnostics;
 using System.Threading;
 
-namespace TP4_SIM_vLihuen
+namespace TP4_SIM
 {
     public partial class TestMontecarlo : Form
     {

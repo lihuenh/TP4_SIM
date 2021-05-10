@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TP4_SIM_vLihuen
+namespace TP4_SIM
 {
     static class Program
     {

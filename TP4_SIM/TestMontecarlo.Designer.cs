@@ -1,5 +1,5 @@
 ﻿
-namespace TP4_SIM_vLihuen
+namespace TP4_SIM
 {
     partial class TestMontecarlo
     {
@@ -157,8 +157,8 @@ namespace TP4_SIM_vLihuen
             // 
             // grp_datos
             // 
-            this.grp_datos.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.grp_datos.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.grp_datos.AutoSize = true;
             this.grp_datos.Controls.Add(this.dgv_resultados);
@@ -174,8 +174,8 @@ namespace TP4_SIM_vLihuen
             // 
             this.dgv_resultados.AllowUserToAddRows = false;
             this.dgv_resultados.AllowUserToDeleteRows = false;
-            this.dgv_resultados.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.dgv_resultados.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgv_resultados.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
             this.dgv_resultados.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
@@ -192,7 +192,7 @@ namespace TP4_SIM_vLihuen
             // 
             // grp_resultados
             // 
-            this.grp_resultados.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.grp_resultados.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.grp_resultados.AutoSize = true;
             this.grp_resultados.Controls.Add(this.txt_toneladas_totales);
